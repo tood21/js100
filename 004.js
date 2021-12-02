@@ -16,3 +16,5 @@ a = "p";
 console.log(typeof a);
 a = [1, 2, 3];
 console.log(typeof a);
+
+//답은 : 2번
